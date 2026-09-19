@@ -1,0 +1,14 @@
+# Runtime data
+users.txt
+
+# Java compiled files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
